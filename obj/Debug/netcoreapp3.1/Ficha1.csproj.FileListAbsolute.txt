@@ -1,0 +1,11 @@
+C:\Users\Fenias\source\repos\Ficha1\bin\Debug\netcoreapp3.1\Ficha1.exe
+C:\Users\Fenias\source\repos\Ficha1\bin\Debug\netcoreapp3.1\Ficha1.deps.json
+C:\Users\Fenias\source\repos\Ficha1\bin\Debug\netcoreapp3.1\Ficha1.runtimeconfig.json
+C:\Users\Fenias\source\repos\Ficha1\bin\Debug\netcoreapp3.1\Ficha1.runtimeconfig.dev.json
+C:\Users\Fenias\source\repos\Ficha1\bin\Debug\netcoreapp3.1\Ficha1.dll
+C:\Users\Fenias\source\repos\Ficha1\bin\Debug\netcoreapp3.1\Ficha1.pdb
+C:\Users\Fenias\source\repos\Ficha1\obj\Debug\netcoreapp3.1\Ficha1.csprojAssemblyReference.cache
+C:\Users\Fenias\source\repos\Ficha1\obj\Debug\netcoreapp3.1\Ficha1.AssemblyInfoInputs.cache
+C:\Users\Fenias\source\repos\Ficha1\obj\Debug\netcoreapp3.1\Ficha1.AssemblyInfo.cs
+C:\Users\Fenias\source\repos\Ficha1\obj\Debug\netcoreapp3.1\Ficha1.dll
+C:\Users\Fenias\source\repos\Ficha1\obj\Debug\netcoreapp3.1\Ficha1.pdb
